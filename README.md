@@ -90,5 +90,3 @@ ChronoSync creates a `.csv` log file in the backup directory:
 ## **License**  
 
 ChronoSync is released under the MIT License. You are free to use, modify, and distribute it with proper attribution.  
-
----
